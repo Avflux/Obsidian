@@ -1,0 +1,35 @@
+{
+  "mountPoints": [
+    {
+      "virtualPath": "Downloads",
+      "realPath": "C:\\Users\\rno\\Downloads",
+      "enabled": true,
+      "readOnly": false,
+      "id": "1ll2a6umr3n6542",
+      "deviceId": "81zjufumr3gwx5b",
+      "ignoreList": [
+        ".git",
+        "node_modules",
+        ".obsidian"
+      ]
+    }
+  ],
+  "allowlist": [
+    "C:\\Users\\rno\\Downloads"
+  ],
+  "managedTocSource": "",
+  "tocSources": [],
+  "dryRun": false,
+  "showStatusBar": true,
+  "mountRootDeletionBehavior": "ask",
+  "deviceId": "81zjufumr3gwx5b",
+  "allowForeignMounts": false,
+  "maxDataUriMB": 10,
+  "globalIgnorePatterns": [
+    ".DS_Store",
+    "Thumbs.db",
+    "desktop.ini",
+    ".git"
+  ],
+  "hasSeenOnboarding": true
+}
