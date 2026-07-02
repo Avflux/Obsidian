@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Tabela
+    sort: []
+    columnSize:
+      file.name: 288

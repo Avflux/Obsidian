@@ -1,0 +1,32 @@
+# ====== Estado da janela do Obsidian (específico da máquina) ======
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ====== Cache/estado temporário ======
+.obsidian/cache/
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====== Histórico de undo ======
+.obsidian/plugins/*/data.json
+!/.obsidian/plugins/obsidian-git/data.json
+
+# ====== Prints/screenshots (geralmente não pertencem ao vault) ======
+Print.png
+Screenshot*.png
+Screen Shot*.png
+Img/Screenshots/
+
+# ====== Anexos grandes (opcional, descomente se quiser) ======
+# *.pdf
+# *.zip
+# *.rar
+# *.7z
+
+# ====== Arquivos temporários / credenciais (NUNCA versionar) ======
+token.md
+*.token
+*_token.txt
+token_temp.*

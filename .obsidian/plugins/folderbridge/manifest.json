@@ -1,0 +1,10 @@
+{
+	"id": "folderbridge",
+	"name": "Folder Bridge",
+	"version": "2.15.2",
+	"minAppVersion": "0.15.0",
+	"description": "Adiciona pastas externas ao seu cofre como diretórios integrados, com uma experiência de uso nativa. Oferece suporte a montagens via sistema de arquivos local, WebDAV, S3/Backblaze B2 e SFTP.",
+	"author": "Timmothy Escolopio",
+	"authorUrl": "https://github.com/tescolopio",
+	"isDesktopOnly": false
+}
