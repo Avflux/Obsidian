@@ -15,3 +15,14 @@ token.md
 *.token
 *_token.txt
 token_temp.*
+
+# Ignorar arquivos grandes
+*.dwg
+*.pdf
+*.mp4
+*.zip
+*.exe
+
+# Mas permitir PDFs importantes (exceção)
+!relatorios/*.pdf
+
