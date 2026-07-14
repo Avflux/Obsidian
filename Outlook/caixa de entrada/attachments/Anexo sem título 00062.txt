@@ -1,0 +1,26 @@
+Received: from mcbain0002.email.locaweb.com.br (189.126.112.13) by mail112113.delibird0005.locaweb.com.br id hqu9iu2n8lg8 for <6331683@gmail.com>; Thu, 22 Feb 2024 15:30:16 -0300 (envelope-from <roberto.oliveira@interestengenharia.com.br>)
+Received: from proxy.email-ssl.com.br (unknown [10.31.120.233])
+	by mcbain0002.email.locaweb.com.br (Postfix) with ESMTP id EC74C80A08B
+	for <6331683@gmail.com>; Thu, 22 Feb 2024 15:48:22 -0300 (-03)
+x-locaweb-id: B-goPU_RBIqAgvIsJRd-zqRmHBbYz93AEXK9XHkiDfZkewIQgofOo72_WYy-PLFSrVQnRP1JOAZiY-_n9NJUHkfJ4gkXQTv8EtqXfPUSd2MR-MHnEDm-WXqmVfUiC2yZ9zkpd373NMDq6cbdAFbaPvhf4dkFoCFPIZZzC0SMMGlgi7RO0GxOb-Txm2vE1Ab35i0NSMzzRVs3W1XOPsfnGO3Xd0wpJMI2fKQhcAJ6Xl12-4bgSo3sUO2gkhLmo6EX NzI2ZjYyNjU3Mjc0NmYyZTZmNmM2OTc2NjU2OTcyNjE0MDY5NmU3NDY1NzI2NTczNzQ2NTZlNjc2NTZlNjg2MTcyNjk2MTJlNjM2ZjZkMmU2Mjcy
+X-LocaWeb-COR: locaweb_2009_x-mail
+X-AuthUser: roberto.oliveira@interestengenharia.com.br
+Received: from INT0056NB (unknown [189.1.16.202])
+	(Authenticated sender: roberto.oliveira@interestengenharia.com.br)
+	by proxy.email-ssl.com.br (Postfix) with ESMTPSA id E498E80757
+	for <6331683@gmail.com>; Thu, 22 Feb 2024 15:48:27 -0300 (-03)
+Return-Receipt-To: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>
+From: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>
+To: <6331683@gmail.com>
+References: 
+In-Reply-To: 
+Subject: =?iso-8859-1?Q?ENC:_SERVI=C7OS_ADICIONAIS_REALIZADOS?=
+Date: Thu, 22 Feb 2024 15:48:26 -0300
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAL0lOYm5hupKtBjQUHfxQMtCgQAAEAAAAAwdzXxkoBpEk1srAGAnccIBAAAAAA==@interestengenharia.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0006_01DA65A6.9360C4A0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Adplv12oR1WGpoqZRN++XENppfxacAAAFWdw
+Content-Language: pt-br
+Disposition-Notification-To: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>

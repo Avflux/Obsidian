@@ -1,0 +1,11 @@
+Reporting-MTA: dns;mail112113.delibird0005.locaweb.com.br
+X-PowerMTA-VirtualMTA: gmail_vmta
+Received-From-MTA: dns;mcbain0001.email.locaweb.com.br (189.126.112.11)
+Arrival-Date: Fri, 1 Mar 2024 17:05:22 -0300
+
+Original-Recipient: rfc822;6331683@gmail.com
+Final-Recipient: rfc822;6331683@gmail.com
+Action: relayed
+Status: 2.0.0 (success)
+Remote-MTA: dns;gmail-smtp-in.l.google.com (142.250.0.26)
+X-PowerMTA-BounceCategory: success

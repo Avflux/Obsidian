@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Recife
+X-LIC-LOCATION:America/Recife
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:GMT-3
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Recife:20251010T100000
+DTEND;TZID=America/Recife:20251010T110000
+DTSTAMP:20250915T192600Z
+ORGANIZER;CN=Joana Holanda:mailto:joana.holanda@interest.com.br
+UID:1771gq03e5t6jpj1e1qm3scick@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Renan Soares Gomes;X-NUM-GUESTS=0:mailto:renan.soares@in
+ terest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=roberto.oliveira@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:ro
+ berto.oliveira@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Joana Holanda;X-NUM-GUESTS=0:mailto:joana.holanda@interest.com.br
+X-GOOGLE-CONFERENCE:https://meet.google.com/icw-tgef-fys
+X-MICROSOFT-CDO-OWNERAPPTID:-1471130681
+CREATED:20250915T192556Z
+DESCRIPTION:Sala de Reunião: 403\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nEntrar com o Google Meet:
+  https://meet.google.com/icw-tgef-fys\nOu disque: (BR) +55 51 4560-7632 PIN
+ : 342675483#\nMais números de telefone: https://tel.meet/icw-tgef-fys?pin=8
+ 401522668537&hs=7\n\nSaiba mais sobre o Meet em: https://support.google.com
+ /a/users/answer/9282720\n\nNão edite esta seção.\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250915T192556Z
+LOCATION:INTEREST Engenharia\, Av. Eng. Abdias de Carvalho\, 1111 - Prado\,
+  Recife - PE\, 50830-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião: PDI
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

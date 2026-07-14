@@ -1,12 +1,12 @@
 ---
-title: "ClickUp"
-source: "https://app.clickup.com/90171072961/v/gr/li/901713233147"
+title: ClickUp
+source: https://app.clickup.com/90171072961/v/gr/li/901713233147
 author:
 published:
 created: 2026-07-02
-description: "ClickUp is the highest-rated and fastest growing Productivity Platform."
+description: ClickUp is the highest-rated and fastest growing Productivity Platform.
 tags:
-  - "clippings"
+  - clippings
 ---
 [Todas as tarefas - Interest SPCS](https://app.clickup.com/90171072961/v/l/t/90171072961)
 

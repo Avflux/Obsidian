@@ -1,0 +1,26 @@
+Received: from mcbain0020.email.locaweb.com.br (189.126.112.15) by mail4950.delibird0004.locaweb.com.br id hs8shm2n8lg6 for <6331683@gmail.com>; Fri, 1 Mar 2024 17:21:49 -0300 (envelope-from <roberto.oliveira@interestengenharia.com.br>)
+Received: from proxy.email-ssl.com.br (unknown [10.31.120.199])
+	by mcbain0020.email.locaweb.com.br (Postfix) with ESMTP id 982501480509
+	for <6331683@gmail.com>; Fri,  1 Mar 2024 17:20:37 -0300 (-03)
+x-locaweb-id: B-goPU_RBIqAgvIsJRd-zqRmHBbYz93AEXK9XHkiDfZkewIQgofOo72_WYy-PLFSrVQnRP1JOAZiY-_n9NJUHkfJ4gkXQTv8EtqXfPUSd2MR-MHnEDm-WXqmVfUiC2yZ9zkpd373NMDq6cbdAFbaPuTp48VflPsxu-InGPrmpk_L8G167uKTh584DwSUaR37TiIodAZeE45v2qeF8GfGizBe7jmcaoq_oCFuxu3mFG4UCBUzGNz4CSmW0xg1_fZU NzI2ZjYyNjU3Mjc0NmYyZTZmNmM2OTc2NjU2OTcyNjE0MDY5NmU3NDY1NzI2NTczNzQ2NTZlNjc2NTZlNjg2MTcyNjk2MTJlNjM2ZjZkMmU2Mjcy
+X-LocaWeb-COR: locaweb_2009_x-mail
+X-AuthUser: roberto.oliveira@interestengenharia.com.br
+Received: from INT0056NB (177.207.242.203.static.gvt.net.br [177.207.242.203])
+	(Authenticated sender: roberto.oliveira@interestengenharia.com.br)
+	by proxy.email-ssl.com.br (Postfix) with ESMTPSA id 80B8A4C0420
+	for <6331683@gmail.com>; Fri,  1 Mar 2024 17:23:22 -0300 (-03)
+Return-Receipt-To: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>
+From: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>
+To: <6331683@gmail.com>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAL0lOYm5hupKtBjQUHfxQMtCgQAAEAAAAM5gvE6XBQdAvpHcawbNMs4BAAAAAA==@interestengenharia.com.br>
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAL0lOYm5hupKtBjQUHfxQMtCgQAAEAAAAM5gvE6XBQdAvpHcawbNMs4BAAAAAA==@interestengenharia.com.br>
+Subject: ENC: Nota Fiscal de Fevereiro 2024
+Date: Fri, 1 Mar 2024 17:23:20 -0300
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAL0lOYm5hupKtBjQUHfxQMtCgQAAEAAAAG/OPOQh2LJIlDHDk6IzVWsBAAAAAA==@interestengenharia.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0050_01DA6BFD.28E19020"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdpsCqsj8LbAIp2qR+CMTgGYHrcpLAAAB+eAAALfiBA=
+Content-Language: pt-br
+Disposition-Notification-To: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>

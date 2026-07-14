@@ -1,0 +1,125 @@
+---
+subject: "ENC: Contrato 4500082345 - Retrofit Serviços Auxiliares: Resposta de pendências Chesf"
+from: "rogenilton.vieira@interest.com.br"
+fromEmail: "rogenilton.vieira@interest.com.br"
+to: ["'Anna Beatriz'", "izabella.nascimento@interest.com.br"]
+cc: ["alderi.filho@interest.com.br", "bruno.medrado@interest.com.br", "ebenezaide.alves@interest.com.br", "geraldo.neto@interest.com.br", "Renan Soares", "roberto.oliveira@interestengenharia.com.br", "'Wesdley Ramos'"]
+sent: "2026-02-09T11:55:57.000Z"
+received: "2026-02-09T11:56:14.000Z"
+folder: "caixa de entrada"
+attachments_count: 3
+---
+
+# ENC: Contrato 4500082345 - Retrofit Serviços Auxiliares: Resposta de pendências Chesf
+
+---
+## Metadata
+
+- **From:** rogenilton.vieira@interest.com.br (rogenilton.vieira@interest.com.br)
+- **To:** 'Anna Beatriz'; izabella.nascimento@interest.com.br
+- **CC:** alderi.filho@interest.com.br; bruno.medrado@interest.com.br; ebenezaide.alves@interest.com.br; geraldo.neto@interest.com.br; Renan Soares; roberto.oliveira@interestengenharia.com.br; 'Wesdley Ramos'
+- **Sent:** 2026-02-09
+- **Received:** 2026-02-09
+- **Folder:** caixa de entrada
+
+---
+## Body
+
+Bom dia, prezadas
+
+Por gentileza salvar o arquivo, em anexo, na rede (link a seguir) na pasta **01\_05.02.26 – 400R1\_400R2**.
+
+J:\\Eletrobras\\Retrofit Serviços Auxiliares\\SE Sobradinho\\03\_Doc Recebida\\Informações CHESF
+
+Além disso, por gentileza, salvar no mesmo link acima as fotos do caminho a seguir na pasta **02\_05.02.26 – Fotos da Operação (SOB)**
+
+J:\\Eletrobras\\Retrofit Serviços Auxiliares\\SE Sobradinho\\08\_Proj. Interest\\02\_Proj Executivo\\04\_Elétrico\\01\_Definições do Projeto\\03\_Em  Execução\\SPCS\\05.02.2026 - Envio Vinícius
+
+Atenciosamente,  
+   
+**Rogenilton Vieira**  
+Tel: (81) 3226-0069
+
+rogenilton.vieira@interest.com.br
+
+[![[attachments/image001_196.png]]](https://www.interest.com.br/)
+
+**De:** Vinicius Eduardo Ferraz Da Nobrega <vnobrega@axia.com.br>  
+**Enviada em:** quinta-feira, 5 de fevereiro de 2026 17:56  
+**Para:** rogenilton.vieira@interest.com.br; Valdir Vieira Do Nascimento Junior <valdirn@axia.com.br>; Allain Caike De Albuquerque Silva <allain@axia.com.br>  
+**Cc:** alderi.filho@interest.com.br; bruno.medrado@interest.com.br; ebenezaide.alves@interest.com.br; geraldo.neto@interest.com.br; renan.soares <renan.soares@interest.com.br>; 'Wesdley Ramos' <wesdley.ramos@interest.com.br>  
+**Assunto:** RE: Contrato 4500082345 - Retrofit Serviços Auxiliares: Resposta de pendências Chesf
+
+segue sobre a Subestação Sobradinho. 
+
+desenhos dos retificadores 400R1 e 400R2 em anexo e uma relação de fotos em link do onedrive dos paineis. 
+
+​[![](https://res.public.onecdn.static.microsoft/assets/fluentui-resources/1.1.0/app-min/assets/item-types/24_1.5x/zip.png)20251031\_135250 1 1.zip](https://eletrobras-my.sharepoint.com/:u:/p/vnobrega/IQAPuOQuy8U_RaXlkyO9ReU3ASsRQywufJqXIyiGrEsnQng)​
+
+Classificação: Pública
+
+---
+
+**De:** rogenilton.vieira@interest.com.br <rogenilton.vieira@interest.com.br\>  
+**Enviado:** quinta-feira, 5 de fevereiro de 2026 15:18  
+**Para:** Valdir Vieira Do Nascimento Junior <valdirn@axia.com.br\>; Vinicius Eduardo Ferraz Da Nobrega <vnobrega@axia.com.br\>; Allain Caike De Albuquerque Silva <allain@axia.com.br\>  
+**Cc:** alderi.filho@interest.com.br <alderi.filho@interest.com.br\>; bruno.medrado@interest.com.br <bruno.medrado@interest.com.br\>; ebenezaide.alves@interest.com.br <ebenezaide.alves@interest.com.br\>; geraldo.neto@interest.com.br <geraldo.neto@interest.com.br\>; renan.soares <renan.soares@interest.com.br\>; 'Wesdley Ramos' <wesdley.ramos@interest.com.br\>  
+**Assunto:** Contrato 4500082345 - Retrofit Serviços Auxiliares: Resposta de pendências Chesf
+
+Boa tarde, Vinícius
+
+Conforme conversado em nossa reunião de hoje, segue reforço das solicitações realizadas anteriormente (e-mails em anexo).
+
+**SE Camaçari II**
+
+1 – Solicitamos o envio dos diagramas elétricos referentes aos painéis/equipamentos que permanecerão em operação.
+
+São eles:
+
+**Equipamentos e Painéis Mantidos:**
+
+1.  400R3 (**Sala Serv. Aux. 230 kV**);
+2.  400R4 (**Sala Serv. Aux. 230 kV**);
+3.  PT2-EA (**Sala Serv. Aux. 230 kV**);
+4.  PT2-EB (**Sala Serv. Aux. 230 kV**);
+5.  QDM-CA-220V (**Sala Serv. Aux. 230 kV**);
+6.  QDR-CA-220V (**Sala Serv. Aux. 230 kV**).
+
+**SE Sobradinho**
+
+1 – Solicitamos o envio dos diagramas elétricos referentes aos painéis/equipamentos que permanecerão em operação.
+
+**Equipamentos e Painéis Mantidos:**
+
+1.  400G1 (**Ao lado da Casa de Serviços Auxiliares**);
+2.  400R1 (**Casa de Serviços Auxiliares**) – *houve a informação de que esses retificadores seriam novos e foram substituídos em meados de julho de 2025*;
+3.  400R2 (**Casa de Serviços Auxiliares**) – *houve a informação de que esses retificadores seriam novos e foram substituídos em meados de julho de 2025*;
+4.  PT2-EA (**Casa de Serviços Auxiliares**);
+5.  PT2-EB (**Casa de Serviços Auxiliares**).
+
+2 -
+
+Atenciosamente,  
+   
+**Rogenilton Vieira**  
+Tel: (81) 3226-0069
+
+rogenilton.vieira@interest.com.br
+
+[![[attachments/image001_196.png]]](https://urldefense.com/v3/__https:/www.interest.com.br/__;!!PTGUpuxMcBqnoA!bTS_2E5hBfguM2Tp_pwRifha8Ppb52rw-UE2oTv9TPjL2t4Uj309Z-jWs10htwEEC6c4uo65TB3lmA_ijiPyEOqFvJ2lzVg$)
+
+---
+### 表格
+
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=480 style='width:360.0pt'><tr><td width=120 rowspan=4 valign=top style='width:90.0pt;padding:.75pt .75pt .75pt .75pt'><p align=center style='margin:.1pt;text-align:center'><img border=0 width=109 height=133 style='width:1.1354in;height:1.3854in' id="x_0.rcj4utoxyrd" src="cid:add30895-47c1-40ba-b473-56d531134cc0" alt="Eletrobras agora é AXIA Energia"><o:p></o:p></p></td><td width=10 valign=top style='width:7.5pt;padding:0cm 0cm 0cm 0cm'></td><td width=350 style='width:262.5pt;padding:0cm 0cm 3.5pt 0cm'><p style='mso-margin-top-alt:0cm;margin-right:.1pt;margin-bottom:0cm;margin-left:.1pt;margin-bottom:.0001pt'><b><span style='font-size:14.0pt;font-family:"Segoe UI",sans-serif;color:blue'>Vinicius Nobrega</span></b><span style='font-size:14.0pt;font-family:"Segoe UI",sans-serif;color:blue'><o:p></o:p></span></p></td></tr><tr><td width=10 valign=top style='width:7.5pt;padding:0cm 0cm 0cm 0cm'></td><td width=350 valign=top style='width:262.5pt;padding:.75pt 0cm 0cm 0cm'><p style='margin:.1pt'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:blue'>Engenharia de Manut Subestações Nordeste<o:p></o:p></span></p></td></tr><tr><td width=10 valign=top style='width:7.5pt;padding:0cm 0cm 0cm 0cm'></td><td width=350 valign=top style='width:262.5pt;padding:1.0pt 0cm 0cm 0cm'><p style='mso-margin-top-alt:0cm;margin-right:.1pt;margin-bottom:0cm;margin-left:.1pt;margin-bottom:.0001pt'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:#0A003C'><a href="mailto:vnobrega@axia.com.br"><span style='color:#0A003C;text-decoration:none'>vnobrega@axia.com.br</span></a>&nbsp;<o:p></o:p></span></p><p style='mso-margin-top-alt:0cm;margin-right:.1pt;margin-bottom:0cm;margin-left:.1pt;margin-bottom:.0001pt'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:#0A003C'><a href="http://www.axia.com.br">www.axia.com.br</a><o:p></o:p></span></p></td></tr><tr><td width=10 valign=top style='width:7.5pt;padding:0cm 0cm 0cm 0cm'></td><td width=350 valign=top style='width:262.5pt;padding:1.5pt 0cm 7.5pt 0cm'><p style='margin:.1pt'><b><span style='font-size:11.5pt;font-family:"Arial",sans-serif;color:blue'>Eletrobras agora é AXIA Energia.&nbsp;</span></b><span style='font-family:"Segoe UI",sans-serif;color:blue'><o:p></o:p></span></p></td></tr></table>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 align=left width="100%" style='width:100.0%'><tr><td width="100%" style='width:100.0%;background:#FF9999;padding:5.25pt 4.5pt 5.25pt 11.25pt'><div><p class=MsoNormal style='mso-element:frame;mso-element-frame-hspace:2.25pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly'><b><span style='color:#222222'>Atenção!</span></b><span style='color:#222222'> E-mail externo. Verifique o remetente, links e anexos antes de interagir. Suspeitou? Clique no botão <b>Alerta de phishing</b> para solicitar a análise do time de Cibersegurança da AXIA Energia. <o:p></o:p></span></p></div></td></tr></table>
+
+
+---
+## Attachments
+
+![[attachments/image001.png]]
+![[attachments/C2_signature_axia_selo_gif_300px_pp_a4c04f48-ad6b-4a73-92a0-c1f1f6efd707.gif]]
+[[attachments/AIB-10872-OC24-003G-1 1.pdf]]

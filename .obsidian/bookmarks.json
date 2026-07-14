@@ -1,31 +1,3 @@
 {
-  "items": [
-    {
-      "type": "graph",
-      "ctime": 1782907244015,
-      "title": "Urgente",
-      "options": {
-        "collapse-filter": true,
-        "search": "",
-        "showTags": false,
-        "showAttachments": false,
-        "hideUnresolved": false,
-        "showOrphans": true,
-        "collapse-color-groups": true,
-        "colorGroups": [],
-        "collapse-display": false,
-        "showArrow": false,
-        "textFadeMultiplier": -1,
-        "nodeSizeMultiplier": 1,
-        "lineSizeMultiplier": 1.01875,
-        "collapse-forces": true,
-        "centerStrength": 0.604166666666667,
-        "repelStrength": 12.0833333333333,
-        "linkStrength": 1,
-        "linkDistance": 179,
-        "scale": 0.5087618855792564,
-        "close": true
-      }
-    }
-  ]
+  "items": []
 }

@@ -1,0 +1,12 @@
+{
+  "notesFolder": "Email/Notas",
+  "attachmentsFolder": "Email/",
+  "filenameTemplate": "{{date}}_{{from}}_{{subject}}",
+  "dateFormat": "YYYY-MM-DD",
+  "extraTag": "",
+  "sourceAccount": "",
+  "includeInlineImages": true,
+  "watchFolderEnabled": true,
+  "watchFolderPath": "C:\\Users\\rno\\Downloads",
+  "openNoteAfterManualImport": true
+}

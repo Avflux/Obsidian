@@ -1,0 +1,32 @@
+Return-Path: <roberto.oliveira@interestengenharia.com.br>
+X-Original-To: <roberto.oliveira@interestengenharia.com.br>
+Received: from mcbain0004.email.locaweb.com.br (localhost [127.0.0.1])
+	by mcbain0004.email.locaweb.com.br (Postfix) with ESMTP id 9AF1F180AE0
+	for <roberto.oliveira@interestengenharia.com.br>; Fri,  1 Mar 2024 16:02:12 -0300 (-03)
+Received: from proxy.email-ssl.com.br (unknown [10.31.120.199])
+	by mcbain0004.email.locaweb.com.br (Postfix) with ESMTP id 68539180B4E
+	for <roberto.oliveira@interestengenharia.com.br>; Fri,  1 Mar 2024 16:02:12 -0300 (-03)
+x-locaweb-id: B-goPU_RBIqAgvIsJRd-zqRmHBbYz93AEXK9XHkiDfZkewIQgofOo72_WYy-PLFSrVQnRP1JOAZiY-_n9NJUHkfJ4gkXQTv8EtqXfPUSd2MR-MHnEDm-WXqmVfUiC2yZ9zkpd373NMDq6cbdAFbaPuTp48VflPsxu-InGPrmpk_L8G167uKTh584DwSUaR37TiIodAZeE45v2qeF8GfGi99tluaETUYWESl_HIMgQmIFqmSv_2gXkc088P0VXvhD NzI2ZjYyNjU3Mjc0NmYyZTZmNmM2OTc2NjU2OTcyNjE0MDY5NmU3NDY1NzI2NTczNzQ2NTZlNjc2NTZlNjg2MTcyNjk2MTJlNjM2ZjZkMmU2Mjcy
+X-LocaWeb-COR: locaweb_2009_x-mail
+X-AuthUser: roberto.oliveira@interestengenharia.com.br
+Received: from INT0056NB (unknown [189.1.16.202])
+	(Authenticated sender: roberto.oliveira@interestengenharia.com.br)
+	by proxy.email-ssl.com.br (Postfix) with ESMTPSA id D13F04C0088
+	for <roberto.oliveira@interestengenharia.com.br>; Fri,  1 Mar 2024 16:02:13 -0300 (-03)
+Return-Receipt-To: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>
+From: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>
+To: "'Roberto Oliveira - INTEREST'" <roberto.oliveira@interestengenharia.com.br>
+References: 
+In-Reply-To: 
+Subject: RES: Nota Fiscal de Fevereiro 2024
+Date: Fri, 1 Mar 2024 16:02:12 -0300
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAL0lOYm5hupKtBjQUHfxQMtCgQAAEAAAAM5gvE6XBQdAvpHcawbNMs4BAAAAAA==@interestengenharia.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0032_01DA6BF1.D306F5B0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdpsCqsj8LbAIp2qR+CMTgGYHrcpLAAAB+eA
+Content-Language: pt-br
+X-MS-TNEF-Correlator: 00000000BD253989B986EA4AB418D05077F140CBC40A2000
+Disposition-Notification-To: "Roberto Oliveira - INTEREST" <roberto.oliveira@interestengenharia.com.br>
+X-smiters: Deactivated

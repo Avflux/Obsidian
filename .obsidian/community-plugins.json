@@ -4,7 +4,9 @@
   "obsidian-kanban",
   "templater-obsidian",
   "obsidian-icon-folder",
-  "pdf-plus",
   "folderbridge",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "pst-import",
+  "postbox"
 ]

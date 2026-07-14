@@ -1,0 +1,12 @@
+Reporting-MTA: dns; mcbain0004.email.locaweb.com.br
+X-Postfix-Queue-ID: 9AF1F180AE0
+X-Postfix-Sender: rfc822; roberto.oliveira@interestengenharia.com.br
+Arrival-Date: Fri,  1 Mar 2024 16:02:12 -0300 (-03)
+
+Final-Recipient: rfc822; roberto.oliveira@interestengenharia.com.br
+Original-Recipient: rfc822;roberto.oliveira@interestengenharia.com.br
+Action: relayed
+Status: 2.0.0
+Remote-MTA: dns; simpsons0030.email.locaweb.com.br
+Diagnostic-Code: smtp; 250 2.0.0 <roberto.oliveira@interestengenharia>
+    KBOWHzcm4mXZdwAAXSKU1Q Saved

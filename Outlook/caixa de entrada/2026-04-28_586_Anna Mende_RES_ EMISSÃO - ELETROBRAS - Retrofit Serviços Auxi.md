@@ -1,0 +1,77 @@
+---
+subject: "RES: EMISSÃO - ELETROBRAS - Retrofit Serviços Auxiliares - SE ANGELIM II  - Projeto ELÉTRICO"
+from: "Anna Mendes"
+fromEmail: "anna.mendes@interestengenharia.com.br"
+to: ["renan.soares@interest.com.br", "izabella.nascimento@interest.com.br"]
+cc: ["'Patrícia Figueiredo'", "maiara.nunes@interest.com.br", "'Bruno Medrado'", "'Wesdley Ramos'", "'Roberto Oliveira'"]
+sent: "2026-04-28T19:55:09.000Z"
+received: "2026-04-28T19:55:02.000Z"
+folder: "caixa de entrada"
+attachments_count: 4
+---
+
+# RES: EMISSÃO - ELETROBRAS - Retrofit Serviços Auxiliares - SE ANGELIM II  - Projeto ELÉTRICO
+
+---
+## Metadata
+
+- **From:** Anna Mendes (anna.mendes@interestengenharia.com.br)
+- **To:** renan.soares@interest.com.br; izabella.nascimento@interest.com.br
+- **CC:** 'Patrícia Figueiredo'; maiara.nunes@interest.com.br; 'Bruno Medrado'; 'Wesdley Ramos'; 'Roberto Oliveira'
+- **Sent:** 2026-04-28
+- **Received:** 2026-04-28
+- **Folder:** caixa de entrada
+
+---
+## Body
+
+Prezado Renan, boa tarde!
+
+Emissão feita. GRD-INT-0870/26
+
+![[attachments/image001_212.png]]
+
+Atenciosamente,  
+   
+**Anna Mendes**  
+Tel: (81) 3226-0069
+
+anna.mendes@interestengenharia.com.br
+
+[![[attachments/image002_194.png|ASSINATURAEMAIL2021]]](https://www.interest.com.br/)
+
+**De:** renan.soares@interest.com.br \[mailto:renan.soares@interest.com.br\]  
+**Enviada em:** terça-feira, 28 de abril de 2026 15:30  
+**Para:** 'Anna Beatriz' <anna.mendes@interestengenharia.com.br>; izabella.nascimento@interest.com.br  
+**Cc:** 'Patrícia Figueiredo' <patricia.figueiredo@interest.com.br>; maiara.nunes@interest.com.br; 'Bruno Medrado' <bruno.medrado@interest.com.br>; 'Wesdley Ramos' <wesdley.ramos@interest.com.br>; 'Roberto Oliveira' <roberto.oliveira@interestengenharia.com.br>  
+**Assunto:** EMISSÃO - ELETROBRAS - Retrofit Serviços Auxiliares - SE ANGELIM II - Projeto ELÉTRICO
+
+Prezadas, boa tarde.
+
+Por gentileza, prosseguir com a emissão dos documentos relacionados abaixo:
+
+**OBS.:** A emissão deverá ser feita apenas por e-mail (disponibilizar via link). Encaminhar e-mail de emissão para **Valdir Vieira Do Nascimento Junior** valdirn@axia.com.br e **Vinicius Eduardo Ferraz Da Nobrega** vnobrega@axia.com.br
+
+Atenciosamente,  
+   
+**Renan Soares**  
+Tel: (81) 3226-0069
+
+renan.soares@interest.com.br
+
+[![[attachments/image003_69.png|cid:image001.png@01DCD723.EDE0C470]]](https://www.interest.com.br/)
+
+---
+### 表格
+
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=0 style='width:1261.1pt;margin-left:.1pt;border-collapse:collapse'><tr style='height:16.5pt'><td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;background:#A6A6A6;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='font-family:"Arial",sans-serif;color:black;mso-fareast-language:PT-BR'>Item<o:p></o:p></span></b></p></td><td width=244 style='width:183.0pt;border:solid windowtext 1.0pt;border-left:none;background:#A6A6A6;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='font-family:"Arial",sans-serif;color:black;mso-fareast-language:PT-BR'>Numeração do Projeto &#8211; N1<o:p></o:p></span></b></p></td><td width=1373 style='width:1030.1pt;border:solid windowtext 1.0pt;border-left:none;background:#A6A6A6;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='font-family:"Arial",sans-serif;color:black;mso-fareast-language:PT-BR'>Endereço da rede INTEREST<o:p></o:p></span></b></p></td></tr><tr style='height:15.75pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>1<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-8-CA1-04-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\01_CA\01_Funcional\02_440Vca\03_Em execução\AGD-8-CA1-04-00B<o:p></o:p></span></u></p></td></tr><tr style='height:15.75pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>2<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-8-CA-04-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\01_CA\01_Funcional\01_220Vca\03_Em execução\AGD-8-CA-04-00B<o:p></o:p></span></u></p></td></tr><tr style='height:15.75pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>3<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-8-CA1-30-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\01_CA\02_Fiação\02_440Vca\01_Painel PT1-440V\03_Em execução\AGD-8-CA1-30-00B<o:p></o:p></span></u></p></td></tr><tr style='height:16.5pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>4<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-8-CA-30-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\01_CA\02_Fiação\01_220Vca\01_Painel PT1-220 V\03_Em execução\AGD-8-CA-30-00B<o:p></o:p></span></u></p></td></tr><tr style='height:16.5pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>5<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-9-CC-04-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\02_CC\01_Funcional\03_Em execução\AGD-9-CC-04-00B<o:p></o:p></span></u></p></td></tr><tr style='height:16.5pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>6<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-9-CC-30-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:16.5pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\02_CC\02_Fiação\01_Painel PT1-EA\03_Em execução\AGD-9-CC-30-00B<o:p></o:p></span></u></p></td></tr><tr style='height:15.75pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>7<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-9-CC-31-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\02_CC\02_Fiação\02_Painel PT1-EB\03_Em execução\AGD-9-CC-31-00B<o:p></o:p></span></u></p></td></tr><tr style='height:15.75pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>8<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-7-SA-04-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\03_Painel 7UA9\01_Funcional\03_Em execução\AGD-7-SA-04-00B<o:p></o:p></span></u></p></td></tr><tr style='height:15.75pt'><td width=64 nowrap style='width:48.0pt;border:solid windowtext 1.0pt;border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>9<o:p></o:p></span></p></td><td width=244 nowrap style='width:183.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black;mso-fareast-language:PT-BR'>AGD-7-SA-30-00B<o:p></o:p></span></p></td><td width=1373 nowrap style='width:1030.1pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt'><p class=MsoNormal><u><span style='color:blue;mso-fareast-language:PT-BR'>J:\Eletrobras\Retrofit Serviços Auxiliares\SE Angelim II\08_Proj. Interest\02_Proj Executivo\04_Elétrico\09_Serviços Auxiliares\03_Painel 7UA9\02_Fiação\01_Painel 7UA9\03_Em execução\AGD-7-SA-30-00B<o:p></o:p></span></u></p></td></tr></table>
+
+
+---
+## Attachments
+
+![[attachments/image002.png]]
+![[attachments/image001.png]]
+![[attachments/image003.png]]
+[[attachments/attachment_4]]

@@ -1,11 +1,11 @@
 {
   "mountPoints": [
     {
-      "virtualPath": "Downloads",
-      "realPath": "C:\\Users\\rno\\Downloads",
+      "virtualPath": "AGD-8-CA1-04-00B",
+      "realPath": "J:\\Eletrobras\\Retrofit Serviços Auxiliares\\SE Angelim II\\08_Proj. Interest\\02_Proj Executivo\\04_Elétrico\\09_Serviços Auxiliares\\01_CA\\01_Funcional\\02_440Vca\\02_Emitidos\\AGD-8-CA1-04-00B",
       "enabled": true,
       "readOnly": false,
-      "id": "1ll2a6umr3n6542",
+      "id": "5g4lpsqmrkx6muj",
       "deviceId": "81zjufumr3gwx5b",
       "ignoreList": [
         ".git",
@@ -15,7 +15,7 @@
     }
   ],
   "allowlist": [
-    "C:\\Users\\rno\\Downloads"
+    "J:\\Eletrobras\\Retrofit Serviços Auxiliares\\SE Angelim II\\08_Proj. Interest\\02_Proj Executivo\\04_Elétrico\\09_Serviços Auxiliares\\01_CA\\01_Funcional\\02_440Vca\\02_Emitidos\\AGD-8-CA1-04-00B"
   ],
   "managedTocSource": "",
   "tocSources": [],

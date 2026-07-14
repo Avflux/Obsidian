@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Recife
+X-LIC-LOCATION:America/Recife
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Recife:20240605T143000
+DTEND;TZID=America/Recife:20240605T144500
+DTSTAMP:20240605T163408Z
+ORGANIZER;CN=Luciara Silva:mailto:luciara.silva@interest.com.br
+UID:1boqv96rhuln27d7d9urkica0r@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=roberto.oliveira@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:ro
+ berto.oliveira@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Luciara Silva;X-NUM-GUESTS=0:mailto:luciara.silva@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Osvaldo Matubara;X-NUM-GUESTS=0:mailto:osvaldo.matubara@interest.co
+ m.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ingrid.ferreira@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:ing
+ rid.ferreira@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=guilherme.souza@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:gui
+ lherme.souza@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=acson.lima@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:acson.li
+ ma@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jose.fernando@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:jose.
+ fernando@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Isabela Sena;X-NUM-GUESTS=0:mailto:isabela.sena@interest
+ .com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:junior.cesar@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gabryella.santana@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:g
+ abryella.santana@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Renan Soares Gomes;X-NUM-GUESTS=0:mailto:renan.soares@in
+ terest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=luis.guilherme@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:luis
+ .guilherme@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ayrton.silva@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:ayrton
+ .silva@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=augusto.sampaio@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:aug
+ usto.sampaio@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=walter.rodrigues@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:wa
+ lter.rodrigues@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=matheus.sales@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:mathe
+ us.sales@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jorge.almeida@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:jorge
+ .almeida@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aylla.santos@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:aylla.
+ santos@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jhonatan.souza@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:jhon
+ atan.souza@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:patricia.figueiredo@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=thamyris.costa@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:tham
+ yris.costa@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mateus.silva@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:mateus
+ .silva@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=plinio.ferreira@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:pli
+ nio.ferreira@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alderi.filho@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:alderi
+ .filho@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Carla Santos;X-NUM-GUESTS=0:mailto:carla.santos@interest
+ .com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=michel.rocha@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:michel
+ .rocha@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=elton.duarte@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:elton.
+ duarte@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alison.pereira@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:alis
+ on.pereira@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Bruno Rodrigues;X-NUM-GUESTS=0:mailto:bruno.rodrigues@in
+ terest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=wesdley.ramos@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:wesdl
+ ey.ramos@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gabriel.xavier@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:gabr
+ iel.xavier@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Gustavo Arruda;X-NUM-GUESTS=0:mailto:gustavo.arruda@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maria.vilela@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:maria.
+ vilela@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:luiz.villela@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Karollina Lacerda;X-NUM-GUESTS=0:mailto:karollina.lacerd
+ a@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=almir.guedes@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:almir.
+ guedes@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rogenilton.vieira@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:r
+ ogenilton.vieira@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=igor.veloso@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:igor.ve
+ loso@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alyson.silva@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:alyson
+ .silva@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=wedson.marcelo@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:weds
+ on.marcelo@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=geraldo.neto@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:gerald
+ o.neto@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=renata.barbosa@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:rena
+ ta.barbosa@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anna.mendes@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:anna.me
+ ndes@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Interest Engenharia;X-NUM-GUESTS=0:mailto:adm@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Maiara Nunes;X-NUM-GUESTS=0:mailto:maiara.nunes@interest
+ .com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sergio.paiva@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:sergio
+ .paiva@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Elayne Mota;X-NUM-GUESTS=0:mailto:elayne.mota@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=matheus.souza@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:mathe
+ us.souza@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=julia.andrade@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:julia
+ .andrade@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:jose.linhares@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=laura.fernanda@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:laur
+ a.fernanda@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Bruno Medrado;X-NUM-GUESTS=0:mailto:bruno.medrado@intere
+ st.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=isabela.lucena@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:isab
+ ela.lucena@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:hilanara.aragao@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jadilson.porto@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:jadi
+ lson.porto@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=eloara.brito@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:eloara
+ .brito@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jonathan.araujo@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:jon
+ athan.araujo@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=girlene.henrique@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:gi
+ rlene.henrique@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=antonio.melo@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:antoni
+ o.melo@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=natalia.brayner@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:nat
+ alia.brayner@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=manuela.lima@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:manuel
+ a.lima@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=matheus.urbano@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:math
+ eus.urbano@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rayane.guerra@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:rayan
+ e.guerra@interestengenharia.com.br
+X-GOOGLE-CONFERENCE:https://meet.google.com/tcr-dxfv-nif
+X-MICROSOFT-CDO-OWNERAPPTID:-973875570
+CREATED:20240605T163404Z
+DESCRIPTION:Sala 403\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nEntrar com o Google Meet: https://mee
+ t.google.com/tcr-dxfv-nif\nOu disque: (BR) +55 31 3958-9858 PIN: 778418186#
+ \nMais números de telefone: https://tel.meet/tcr-dxfv-nif?pin=9701477864763
+ &hs=7\n\nSaiba mais sobre o Meet em: https://support.google.com/a/users/ans
+ wer/9282720\n\nNão edite esta seção.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240605T163404Z
+LOCATION:INTEREST Engenharia\, Av. Eng. Abdias de Carvalho\, 1111 - Prado\,
+  Recife - PE\, 50830-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião: Extraordinária
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

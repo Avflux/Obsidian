@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Recife
+X-LIC-LOCATION:America/Recife
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:GMT-3
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Recife:20250709T110000
+DTEND;TZID=America/Recife:20250709T113000
+DTSTAMP:20250626T171255Z
+ORGANIZER;CN=Elayne Mota:mailto:elayne.mota@interest.com.br
+UID:1jpb5sl27jehmnt3fklompbt6s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=luis.guilherme@interest.com.br;X-NUM-GUESTS=0:mailto:luis.guilherme
+ @interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=roberto.oliveira@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:ro
+ berto.oliveira@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Osvaldo Matubara;X-NUM-GUESTS=0:mailto:osvaldo.matubara@interest.co
+ m.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vinicius.dutra@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:vini
+ cius.dutra@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=julia.andrade@interest.com.br;X-NUM-GUESTS=0:mailto:julia.andrade@i
+ nterest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:luiz.villela@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=eloara.brito@interest.com.br;X-NUM-GUESTS=0:mailto:eloara.brito@int
+ erest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Karollina Lacerda;X-NUM-GUESTS=0:mailto:karollina.lacerd
+ a@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alyson.silva@interest.com.br;X-NUM-GUESTS=0:mailto:alyson.silva@int
+ erest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=wesdley.ramos@interest.com.br;X-NUM-GUESTS=0:mailto:wesdley.ramos@i
+ nterest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jorge.almeida@interest.com.br;X-NUM-GUESTS=0:mailto:jorge.almeida@i
+ nterest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=matheus.souza@interest.com.br;X-NUM-GUESTS=0:mailto:matheus.souza@i
+ nterest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=antonio.melo@interest.com.br;X-NUM-GUESTS=0:mailto:antonio.melo@int
+ erest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Renan Soares Gomes;X-NUM-GUESTS=0:mailto:renan.soares@in
+ terest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:natalia.brayner@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jadilson.porto@interest.com.br;X-NUM-GUESTS=0:mailto:jadilson.porto
+ @interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Ricardo Melo;X-NUM-GUESTS=0:mailto:ricardo.melo@interest
+ .com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=almir.guedes@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:almir.
+ guedes@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rogenilton.vieira@interest.com.br;X-NUM-GUESTS=0:mailto:rogenilton.
+ vieira@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anna.mendes@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:anna.me
+ ndes@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Interest Engenharia;X-NUM-GUESTS=0:mailto:adm@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Maiara Nunes;X-NUM-GUESTS=0:mailto:maiara.nunes@interest
+ .com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sergio.paiva@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:sergio
+ .paiva@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mateus.silva@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:mateus
+ .silva@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Elayne Mota;X-NUM-GUESTS=0:mailto:elayne.mota@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=michel.rocha@interest.com.br;X-NUM-GUESTS=0:mailto:michel.rocha@int
+ erest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:jose.linhares@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=leticia.azevedo@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:let
+ icia.azevedo@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=yuri.azevedo@interestengenharia.com.br;X-NUM-GUESTS=0:mailto:yuri.a
+ zevedo@interestengenharia.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maria.vilela@interest.com.br;X-NUM-GUESTS=0:mailto:maria.vilela@int
+ erest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=elton.duarte@interest.com.br;X-NUM-GUESTS=0:mailto:elton.duarte@int
+ erest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Bruno Rodrigues;X-NUM-GUESTS=0:mailto:bruno.rodrigues@in
+ terest.com.br
+X-GOOGLE-CONFERENCE:https://meet.google.com/dto-gobs-uoj
+X-MICROSOFT-CDO-OWNERAPPTID:2078653791
+CREATED:20250626T171252Z
+DESCRIPTION:Sala do auditório.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nEntrar com o Google Meet: h
+ ttps://meet.google.com/dto-gobs-uoj\nOu disque: (BR) +55 11 4933-9166 PIN: 
+ 716401643#\nMais números de telefone: https://tel.meet/dto-gobs-uoj?pin=768
+ 8590033215&hs=7\n\nSaiba mais sobre o Meet em: https://support.google.com/a
+ /users/answer/9282720\n\nNão edite esta seção.\n-::~:~::~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250626T171252Z
+LOCATION:INTEREST Engenharia\, Av. Eng. Abdias de Carvalho\, 1111 - Prado\,
+  Recife - PE\, 50830-000\, Brasil
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião: Apresentação do Plano de Cargos\, Carreiras e Remuneração
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

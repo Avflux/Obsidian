@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:America/Recife
+X-LIC-LOCATION:America/Recife
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:GMT-3
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Recife:20250801T143000
+DTEND;TZID=America/Recife:20250801T150000
+DTSTAMP:20250801T123038Z
+ORGANIZER;CN=Joana Holanda:mailto:joana.holanda@interest.com.br
+UID:5l66gciql4ueeqbj5oihasr6n6@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=als.arthurlimasilva@gmail.com;X-NUM-GUESTS=0:mailto:als.arthurlimas
+ ilva@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=[INTEREST] Renan Soares Gomes;X-NUM-GUESTS=0:mailto:renan.soares@in
+ terest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jpammarinho@gmail.com;X-NUM-GUESTS=0:mailto:jpammarinho@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;X-NUM-GUESTS=0:mailto:luiz.villela@interest.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Joana Holanda;X-NUM-GUESTS=0:mailto:joana.holanda@interest.com.br
+X-GOOGLE-CONFERENCE:https://meet.google.com/gsg-ibua-aot
+X-MICROSOFT-CDO-OWNERAPPTID:378551824
+CREATED:20250801T123030Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nEntrar com o Google Meet: https://meet.google.com
+ /gsg-ibua-aot\nOu disque: (BR) +55 11 4935-6451 PIN: 712559260#\nMais númer
+ os de telefone: https://tel.meet/gsg-ibua-aot?pin=8366541635163&hs=7\n\nSai
+ ba mais sobre o Meet em: https://support.google.com/a/users/answer/9282720\
+ n\nNão edite esta seção.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250801T123032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reunião: Desenvolvedores 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
